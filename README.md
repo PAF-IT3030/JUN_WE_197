@@ -8,6 +8,7 @@ Please go under edit and edit this file as needed for your project
 ### Member 3 -IT20622350-Dissanayaka M.P.D
 ### Member 4 - IT20664626-Wickramasinghe I.D
 
-#### Brief Description of your Solution - 
+ Description  
 
-Note - The student's github account should be given in brackets e.g. (asiriRepos), this ideally should be your student id 
+The goal of our project is to create a social media network that caters exclusively to fitness enthusiasts. Users will be able to share workouts, healthy meal plans, fitness journeys, and lifestyle advice centrally on this platform. It will offer a vibrant environment where users can interact, encourage, and support one another as they work toward their fitness objectives.
+For the front-end architecture of the client web application, we will use a component-based architecture with React. This will allow us to create reusable UI components and make it easier to manage the state of the application.
