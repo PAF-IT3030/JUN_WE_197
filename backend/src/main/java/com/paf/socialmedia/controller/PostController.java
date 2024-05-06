@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.*;
 @RestController
 @RequestMapping("/api/posts")
 public class PostController {
+
     @Autowired
     private PostService postService;
     @PostMapping
@@ -36,6 +37,7 @@ public class PostController {
     public ResponseEntity<?> likePostById(@PathVariable String id, @RequestBody Post post){
         return  postService.likePostById(id,post);
     }
+    
     @DeleteMapping("/{id}")
     public ResponseEntity<?> deletePostById(@PathVariable String id){
         return postService.deletePostById(id);
