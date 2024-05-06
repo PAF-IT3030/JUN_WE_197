@@ -4,7 +4,7 @@ Please go under edit and edit this file as needed for your project
 # Team Name - Team Power Fitness
 # Project Group -IT_JUN_WE_197
 ### Group Leader - IT20660666-Mendis T.S (Tharu99SLIIT)
-### Member 2 - IT20658922-Hulugalla W.M.M.P (Muidtha-Hulugalla)
+### Member 2 - IT20658922-Hulugalla W.M.M.P (Muditha-Hulugalla)
 ### Member 3 -IT20622350-Dissanayaka M.P.D (pasindu18)
 ### Member 4 - IT20664626-Wickramasinghe I.D (Ireshawickramasinghe)
 
